@@ -1,0 +1,1 @@
+Hola buenos días, hoy [url=https://amxmodx-es.com/Manu]Manu[/url] también conocido como Treki, me pasó un sistema de party para que lo comparta con ustedes, lo único que hice fue adaptarlo a ZP con soporte para bots basandome en el otro aporte que publiqué, adjunto las 2 versiones, CON Y SIN ZP. Saludos.
